@@ -1,2 +1,2 @@
-# yandex-praktikum-projects
+# yandex-practicum-projects
 Учебные проекты / Educational projects
